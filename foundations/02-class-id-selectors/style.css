@@ -1,0 +1,21 @@
+.text-colors {
+    background-color: #ff6cb6;
+    color: #000;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#bold {
+    font-size: 24px;
+}
+
+.bold-blue {
+    color: rgb(32, 36, 255);
+    font-size: 36px;
+}
+
+.greenish {
+    color: #000;
+    background-color: #00c400;
+    font-weight: 900;
+    font-size: 24px;
+}
